@@ -1,0 +1,26 @@
+{
+  "name": "testprotractor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "protractor": "^5.4.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node_modules/.bin/protractor conf.js",
+    "wdms": "node_modules/.bin/webdriver-manager start",
+    "wdmu": "node_modules/.bin/webdriver-manager update"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kanchan7193/testprotractor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kanchan7193/testprotractor/issues"
+  },
+  "homepage": "https://github.com/kanchan7193/testprotractor#readme"
+}
